@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f4f4f4;
+}
+
+.login-body {
+  background: linear-gradient(to right, #003366, #0055aa);
+}
+
+.login-box {
+  width: 300px;
+  background: white;
+  padding: 25px;
+  margin: 120px auto;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.navbar {
+  background: #003366;
+  color: white;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+.navbar ul li {
+  margin: 0 12px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.section {
+  background: white;
+  margin: 20px;
+  padding: 30px;
+  border-radius: 8px;
+}
